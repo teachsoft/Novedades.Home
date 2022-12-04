@@ -4,6 +4,8 @@
 	box-sizing: border-box;
 }
 
+
+
 body {
 	background: #f3f3f3;
 	font-family: 'Open Sans', sans-serif;
@@ -143,6 +145,7 @@ header .categorias a.activo {
 
 .contenedor-img {
 	position: relative;
+	
 }
 
 .overlay #btn-cerrar-popup {
